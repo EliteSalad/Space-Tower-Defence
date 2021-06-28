@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 3cbebc78250dd534e9efdfa7bd533b7c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Base
+    100002: BaseElement
+    100004: BasePlatform
+    100006: BaseSupport
+    100008: GunBarel
+    100010: GunBase
+    100012: GunBaseElement
+    100014: GunBaseWheel
+    100016: GunSide1
+    100018: GunSide2
+    100020: GunSide3
+    100022: GunSide4
+    100024: //RootNode
+    400000: Base
+    400002: BaseElement
+    400004: BasePlatform
+    400006: BaseSupport
+    400008: GunBarel
+    400010: GunBase
+    400012: GunBaseElement
+    400014: GunBaseWheel
+    400016: GunSide1
+    400018: GunSide2
+    400020: GunSide3
+    400022: GunSide4
+    400024: //RootNode
+    2300000: Base
+    2300002: BaseElement
+    2300004: BasePlatform
+    2300006: BaseSupport
+    2300008: GunBarel
+    2300010: GunBase
+    2300012: GunBaseElement
+    2300014: GunBaseWheel
+    2300016: GunSide1
+    2300018: GunSide2
+    2300020: GunSide3
+    2300022: GunSide4
+    3300000: Base
+    3300002: BaseElement
+    3300004: BasePlatform
+    3300006: BaseSupport
+    3300008: GunBarel
+    3300010: GunBase
+    3300012: GunBaseElement
+    3300014: GunBaseWheel
+    3300016: GunSide1
+    3300018: GunSide2
+    3300020: GunSide3
+    3300022: GunSide4
+    4300000: Base
+    4300002: GunBaseWheel
+    4300004: GunSide3
+    4300006: GunSide1
+    4300008: BaseSupport
+    4300010: GunBaseElement
+    4300012: BasePlatform
+    4300014: BaseElement
+    4300016: GunSide2
+    4300018: GunBase
+    4300020: GunSide4
+    4300022: GunBarel
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5
+    second: {fileID: 2100000, guid: 232c2277d5c64314280f9ec1d470bb1a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
